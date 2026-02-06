@@ -6,3 +6,5 @@ In this modern era of collection and utilization of data and information, it is 
 
 
 This project has been intended to address the growing needs of effective and time-saving systems for proper and cohesive understanding of pieces of information. The system focuses on crafting summaries that encapsulates the crux of the original text, using the principles of deep learning and fundamentals of Natural Language Processing (NLP).
+
+[View PDF]("Text Summarization System report.pdf")
